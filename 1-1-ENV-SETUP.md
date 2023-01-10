@@ -1,9 +1,7 @@
 ## Set up Environment for the workshop
 Initially, a workshop environment comprises a default VPC with Internet Gateway and 3 public subnets.
 In this part we are going to create 3 private subnets in order to allow EKS cluster to be placed on these subnets.
-Nat Gateway also is used for the Internet outbound traffic. Last, a newly-created route table is associated with 3 private subnets.
-After the workshop we are going 
-
+Nat Gateway also is used for the Internet outbound traffic. Last, a newly-created route table is associated with 3 private subnets.  
 
 ## Architecture Diagram
 

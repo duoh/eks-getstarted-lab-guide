@@ -1,6 +1,6 @@
 ## Preparing EKS cluster
 Before creating an EKS cluster, we need to create a cluster service role to allow the control plane cluster to manage AWS resources on our behalf, 
-by creating a role with with a managed policy, AmazonEKSClusterPolicy to allow EKS service assume 
+by creating a role with with a managed policy, AmazonEKSClusterPolicy to allow EKS service assume.  
 * Go to Roles on IAM console (https://console.aws.amazon.com/iamv2/home#/roles)
     * Click on 'Create role'  and choose options as follows
     * Trusted entity type: AWS service

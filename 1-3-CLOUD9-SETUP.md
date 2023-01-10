@@ -1,8 +1,8 @@
 ## Set up Cloud9
-Cloud9 is a Cloud IDE provided by AWS. We are going to use this as a workstation for this hands-on workshop.  
+Cloud9 is a Cloud IDE provided by AWS. We are going to use it as a workstation for this hands-on workshop.  
 To allow Cloud9 can talk with a private EKS api endpoint, we need to place Cloud9 instance in the private subnet.  
-Moreover, The instance role must be the same one as used to create EKS console.  
-Last, It is require to associate one more security group, default. So Cloud9 can talk to EKS API server endpoint.  
+Moreover, the instance role must be the same one as used to create EKS console.  
+Last, it is required to associate one more security group, which is default. So Cloud9 can talk to EKS API server endpoint.  
 * Go to Cloud9 console (https://console.aws.amazon.com/cloud9control)
     * Click on 'Create environment' and input the following parameters
         * Name: eks-workstation
