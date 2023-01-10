@@ -1,0 +1,1 @@
+# eks-getstarted-lab-guide
