@@ -7,5 +7,6 @@ There are 2 main parts for this guide.
 2. Lab walkthrough
     1. [Walkthrough](/2-1-WALKTHROUGH.md)
 
+**Note**  
 * Mostly this guide refers to EKS Immersion day Workshop (https://catalog.workshops.aws/eks-immersionday/en-US).  
-The guide just corrects some instructions causing errors due to using the latest EKS 1.24 version
+* The guide just corrects some instructions causing errors thanks to using the latest EKS 1.24 version
